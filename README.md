@@ -16,7 +16,7 @@ var myObject = {
 myObject.func();
 
 Output is - 
-outer func:  this.foo = bar
+outer func:  this.foo = bar 
 outer func:  self.foo = bar
 inner func:  this.foo = undefined
 inner func:  self.foo = bar
